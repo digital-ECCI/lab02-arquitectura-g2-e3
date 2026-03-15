@@ -157,12 +157,6 @@ Tercer caso
 6.  **Cumplimiento de los Objetivos del Laboratorio:** El circuito implementado satisface todos los requisitos planteados inicialmente. Se construyó un sistema aritmético lógico (ALU) básico capaz de conmutar entre suma y resta de números de 4 bits, confirmando su correcto funcionamiento a través de la verificación práctica de todas las combinaciones de entrada relevantes.
 
 ## Referencias
-Claro, aquí tienes las referencias bibliográficas en formato académico para tu informe de laboratorio sobre el sumador/restador de 4 bits:
-
----
-
-### **Referencias**
-
 [1] M. M. Mano, *Diseño Digital*, 3a ed. Naucalpan de Juárez, México: Pearson Educación, 2003. 
 
 [2] CircuitVerse.org, "Sumador o restador binario con salida representada en complemento A2 (4 bits)," 2021. [En línea]. Disponible: https://circuitverse.org/users/75038/projects/sumador-o-restador-binario-con-salida-representada-en-complemento-a2-4-bits. [Accedido: 15-mar-2026]. 
